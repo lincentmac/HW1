@@ -6,7 +6,7 @@
 
 class Solution {
 public:
-  std::string PrintHelloWorld();
+  std::string PrintMyInfo();
 };
 
 #endif
